@@ -72,7 +72,7 @@ Me
         <img src="bronze_1_small.png" width="100" height="100">
     </a>
     <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Verizon%20Communications%20Inc./aNJGnRtgfiK5fQqcR_Verizon_4hsDNmQA3phSMdWSS_1712269636884_completion_certificate.pdf">
-        <img src="Verizon.pdf" width="100" height="100">
+        <img src="Verizon.png" width="100" height="100">
 </div>
 
 ---
