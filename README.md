@@ -5,10 +5,10 @@
 <div align="center">
     <h4>📩 Reach Me</h4>
     <a href="https://www.linkedin.com/in/manitgarg/">
-        <img src="https://img.shields.io/badge/-pranavkarra-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+        <img src="https://img.shields.io/badge/-manitgarg-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:manit.garg.in@gmail.com">
-        <img src="https://img.shields.io/badge/-pranavkarra001%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
+        <img src="https://img.shields.io/badge/-manit.garg.in@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
     </a>
 </div>
 
