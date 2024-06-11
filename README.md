@@ -69,10 +69,10 @@ Me
 
 <div align="center">
     <a href="https://www.credly.com/go/k9ZwRChgpN9Z0GXPD8ROKA">
-        <img src="alcf_certification.png" width="100" height="100">
+        <img src="bronze_1_small.png" width="100" height="100">
     </a>
     <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Verizon%20Communications%20Inc./aNJGnRtgfiK5fQqcR_Verizon_4hsDNmQA3phSMdWSS_1712269636884_completion_certificate.pdf">
-        <img src="MLB.png" width="100" height="100">
+        <img src="Verizon.pdf" width="100" height="100">
 </div>
 
 ---
