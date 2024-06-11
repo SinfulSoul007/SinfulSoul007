@@ -75,3 +75,22 @@ Me
 </div>
 
 ---
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SinfulSoul007&theme=transparent&hide_border=false" alt="SinfulSoul007's Streak" />
+    </a>
+</div>
+
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=SinfulSoul007&theme=transparent&show_icons=true&include_all_commits=true&hide_border=false&count_private=true&card_width=100" alt="GitHub Stats" />
+    </a>
+</div>
+
+
+
+---
+<div align="center">
+    <h3>📈 Github Metrics</h3>
+    <img src="/github-metrics.svg" alt="Metrics" />
+</div>
