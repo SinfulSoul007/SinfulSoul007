@@ -53,8 +53,7 @@ Setup
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white&labelColor=grey)](https://code.visualstudio.com/)
 [![notion](https://img.shields.io/badge/Notes-Notion-white?logo=notion&labelColor=black)](https://www.notion.so/)
 ![browser](https://img.shields.io/badge/Browser-Vivaldi-red?logo=vivaldi&logoColor=white&labelColor=grey)
-[![spotify](https://img.shields.io/badge/Music-Spotify-neongreen?logo=Spotify&link=https%3A%2F%2Fwww.16personalities.com%2Fprofiles%2F657a2e4a73f3e&labelColor=grey)](https://open.spotify.com/user/31upcnx4lq5jkxajpswotik5wnuu)
-[![letterboxd](https://img.shields.io/badge/-letterboxd-orange?logo=Letterboxd&link=https%3A%2F%2Fwww.16personalities.com%2Fprofiles%2F657a2e4a73f3e)](https://letterboxd.com/pranavkarra/)
+[![spotify](https://img.shields.io/badge/Music-Spotify-neongreen?logo=Spotify&link=https%3A%2F%2Fwww.16personalities.com%2Fprofiles%2F657a2e4a73f3e&labelColor=grey)](https://open.spotify.com/user/31rna4klkavprnucnm5rffhfdydq?si=53baa60ac3c04a48)
 ![Static Badge](https://img.shields.io/badge/Passwords-Bitwarden-blue?logo=bitwarden)
 
 Me
